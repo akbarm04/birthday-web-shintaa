@@ -337,20 +337,20 @@ export default function BirthdayPage() {
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                   <GalleryCard
                     imageUrl="/galeri1.png"
-                    title="JKT48 Theater Performance"
-                    description="Penampilan spektakuler JKT48 di theater mereka yang legendaris."
+                    title="Shinta Gemass"
+                    description="Shintaa memegang bunga yang cantik"
                   />
 
                   <GalleryCard
                     imageUrl="/galeri2.png"
-                    title="Handshake Event"
-                    description="Momen spesial bertemu dengan idolamu di acara handshake."
+                    title="Shintaa Lucuu"
+                    description="Shinta pake kostum lucuu."
                   />
 
                   <GalleryCard
                     imageUrl="/galeri3.png"
-                    title="JKT48 Single Terbaru"
-                    description="Formasi terbaru JKT48 dengan single yang memikat hati."
+                    title="Shinta Imutt"
+                    description="Shinta dengan pose imutnyaa."
                   />
                 </div>
               </div>
